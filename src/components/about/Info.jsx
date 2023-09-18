@@ -7,13 +7,13 @@ const Info = () => {
         <i class='bx bx-award about__icon'></i>
 
             <h3 className="about__title">Experience</h3>
-            <span className="about__subtitle">7 years in IT, as a product manager assistant and a software developer graduate</span>
+            <span className="about__subtitle">Many years in IT, as a product manager assistant and a software developer graduate</span>
         </div>
         <div className="about__box">
         <i class='bx bx-briefcase-alt about__icon' ></i>
 
             <h3 className="about__title">Completed</h3>
-            <span className="about__subtitle">40 + Projects</span>
+            <span className="about__subtitle">25 + Projects</span>
         </div>
         <div className="about__box">
         <i class='bx bx-support about__icon' ></i>

@@ -69,7 +69,7 @@ const Qualification = () => {
               </div>
 
               <div>
-                  <h3 className="qualification__title">Web Development</h3>
+                  <h3 className="qualification__title">XXX</h3>
                   <span className="qualification__subtitle">
                     Canada - BCIT 
                   </span>
